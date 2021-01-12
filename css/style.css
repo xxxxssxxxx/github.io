@@ -90,7 +90,7 @@ iframe {
 /* HOME
 ------------------------------- */
 #home {
-    background-image: url(main-bg.jpg);
+    background-image: url(../main-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -218,7 +218,7 @@ aside p {
 /* CONTACT
 ------------------------------- */
 #contact {
-    background-image: url(contact-bg.jpg);
+    background-image: url(../contact-bg.jpg);
     min-height: 100vh;
 }
 
